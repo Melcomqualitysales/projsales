@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<head>
+<title>MELCOM HOME</title>
+</head>
+<body bgcolor="white">
+<center><img src="melcom logo.png" width="200" height="150"></a><center>
+<center><font color="blue" font size="50"><b>Welcome to Melcom Mall</b></center></font></h1>
+<hr>
+<marquee>WHERE QUALITY COSTS LESS!!</marquee>
+<p>Your One-Stop Shop for Quality and Affordable Products</p>
+<nav>
+<ul>
+<p><a href="products.html">Products</a><p>
+<p><a href="about.html">About Us</a><p>
+<p><a href="store.html">Store Locator</a><p>
+<p><a href="contact.html">Contact Us</a><p>
+</ul>
+</nav>
+<body>
+<h1>HISTORY</h1>
+<p>Melcom is a supermarket chain consisting of 65 shops spread all over Ghana. It was started in 1989 by Indian magnate Bhagwan Khubchandani. His late father, Ramchand Khubchandani, had arrived in the then Gold Coast in 1929 as a 14-year-old to work as a store boy.Melcom Group of Companies is a family business.
+The Melcom Group of Companies consists of six separate entities: Melcom Limited, Century Industries Limited, Crownstar Electronic Industries Limited, Melcom Hospitality, Melcom Travels, and Melcom Care. Aside from conquering an extensive retail market share with a network of more than 60 retail outlets spread all over Ghana (Melcom Limited), the Group is well-diversified into other businesses.</p>
+<p>Melcom Group is best known for its shopping mall, Melcom Limited. As Ghana’s largest chain of retail department stores, Melcom offers thousands of products and hundreds of well known brands.</p>
+<a href="MELCOM.mp4"><img src="melcom logo.png" width="320" height="240"></a>
+<center><embed src="MELCOM.mp4" width="320" height="240"></center> 
+<center><script type="text/javascript">document.write(Date())</script></center>
+<p align="center">&#169; 2025 Melcom Ghana. All Rights Reserved.</p>
+</body>
+</html>
